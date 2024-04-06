@@ -17,3 +17,7 @@
     $vetor[3];
     echo "<br/>".$vetor[3];
     $vetor["tio"] = "tio";
+    echo "Valores do Vetor: <br/>";
+    foreach($vetor as $v){
+        echo "$v <br/>";
+    }

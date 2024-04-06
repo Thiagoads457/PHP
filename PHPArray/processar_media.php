@@ -14,3 +14,6 @@
 
     $vetor = array(10, 20, 30);
     echo $vetor[1];
+    $vetor[3];
+    echo "<br/>".$vetor[3];
+    $vetor["tio"] = "tio";

@@ -23,3 +23,4 @@
     }
 
     print_r($vetor);
+    var_dump($vetor);

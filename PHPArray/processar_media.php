@@ -18,6 +18,6 @@
     echo "<br/>".$vetor[3];
     $vetor["tio"] = "tio";
     echo "Valores do Vetor: <br/>";
-    foreach($vetor as $v){
-        echo "$v <br/>";
+    foreach($vetor as $p => $v){
+        echo "Posição $p = $v <br/>";
     }

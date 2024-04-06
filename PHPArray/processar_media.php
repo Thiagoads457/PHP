@@ -21,3 +21,5 @@
     foreach($vetor as $p => $v){
         echo "Posição $p = $v <br/>";
     }
+
+    print_r($vetor);

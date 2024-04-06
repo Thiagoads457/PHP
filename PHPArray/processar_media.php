@@ -14,7 +14,7 @@
 
     $vetor = array(10, 20, 30);
     echo $vetor[1];
-    $vetor[3];
+    $vetor[3] = 40;
     echo "<br/>".$vetor[3];
     $vetor["tio"] = "tio";
     echo "Valores do Vetor: <br/>";

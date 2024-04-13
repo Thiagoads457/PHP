@@ -18,7 +18,7 @@
     );
 
     if ($mes >= 1 && $mes <= 12) {
-        echo "O mês correspondente ao número $mes é: $meses[$mes] <br>";
+        echo "O nº informado corresponte ao mês de: $meses[$mes] <br>";
     } else {
     // Caso o número do mês seja inválido
     echo "Número de mês inválido. Por favor, digite um número de 1 a 12.";

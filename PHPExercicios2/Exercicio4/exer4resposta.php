@@ -21,5 +21,5 @@
         echo "O nº informado corresponte ao mês de: $meses[$mes] <br>";
     } else {
     // Caso o número do mês seja inválido
-    echo "Número de mês inválido. Por favor, digite um número de 1 a 12.";
+    echo "Número de mês inválido. Por favor, digite um número entre 1 a 12.";
     }
